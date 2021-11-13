@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Golden
+- 👀 I’m a Python Developer, i'm junior dev, but i dev .exe app and 3d Games!
+- 🌱 I’m currently learning Java
